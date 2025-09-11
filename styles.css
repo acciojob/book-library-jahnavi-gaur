@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #f8f8f8;
+	display:flex;
+	justify-content:center;
+}
+.book-library{
+	background-color: #ffffff;
+	width:70vw;
+	display:flex;
+	flex-direction:column;
+	/* justify-content:center; */
+	/* align-items:center; */
+}
+.book{
+	background-color: #f8f8f85d;
+	width:70vw;
+	margin:10px 0;
+	border-radius:5px;
+}
+.book h1{
+	text-align:center;
+}
+button{
+	width: 68vw;
+	height:30px;
+	background-color:#2ecc71;
+	border:none;
+	border-radius:2px;
+	margin:10px;
+	color:white;
+}
+.image{
+	margin:10px;
+	text-align:center;
+}
+.book p{
+	color:#777777;
+}
+
+
