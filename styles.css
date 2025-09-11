@@ -13,20 +13,22 @@ body{
 	/* align-items:center; */
 }
 .book{
-	/* background-color: #f8f8f85d; */
+	background-color: gray;
 	width:70vw;
 	margin:10px 0;
 	border-radius:5px;
 }
 h1{
 	text-align:center;
+	background-color: gray;
+	padding:10px;
 }
-button{
+.btn{
 	width: 68vw;
 	height:30px;
 	background-color:#2ecc71;
 	border:none;
-	border-radius:2px;
+	border-radius:5px;
 	margin:10px;
 	color:white;
 }
@@ -34,7 +36,7 @@ button{
 	margin:10px;
 	text-align:center;
 }
-.book p{
+p{
 	color:#777777;
 }
 
