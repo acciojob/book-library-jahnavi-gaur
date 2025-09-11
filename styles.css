@@ -13,12 +13,12 @@ body{
 	/* align-items:center; */
 }
 .book{
-	background-color: #f8f8f85d;
+	/* background-color: #f8f8f85d; */
 	width:70vw;
 	margin:10px 0;
 	border-radius:5px;
 }
-.book h1{
+h1{
 	text-align:center;
 }
 button{
